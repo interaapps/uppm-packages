@@ -1,5 +1,5 @@
 {
-    "ulole-phpmailer": {
+    "phpmailer": {
         "newest": "1.0",
         "1.0": "https://github.com/interaapps/PHPMailer-Ulole-Module/archive/1.0.zip"
     },
