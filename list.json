@@ -17,5 +17,10 @@
     "uloleorm": {
         "newest": "0.0",
         "0.0": "https://github.com/interaapps/ulole-orm/archive/master.zip"
+    },
+    
+    "colorful": {
+        "newest": "1.0",
+        "1.0": "https://github.com/uppm/php-colorful/archive/master.zip"
     }
 }
