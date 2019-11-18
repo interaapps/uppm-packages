@@ -19,6 +19,11 @@
         "0.0": "https://github.com/interaapps/ulole-orm/archive/master.zip"
     },
     
+    "gitclient": {
+        "newest": "1.0",
+        "1.0": "https://github.com/uppm/git-php-client/archive/master.zip"
+    },
+    
     "colorful": {
         "newest": "1.0",
         "1.0": "https://github.com/uppm/php-colorful/archive/master.zip"
