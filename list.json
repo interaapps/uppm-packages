@@ -27,7 +27,7 @@
     "colorful": {
         "newest": "1.0",
         "1.0": "https://github.com/uppm/php-colorful/archive/master.zip"
-    }
+    },
     
     "httprequest": {
         "newest": "1.0",
