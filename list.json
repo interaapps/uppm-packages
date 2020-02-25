@@ -28,10 +28,13 @@
         "newest": "1.0",
         "1.0": "https://github.com/uppm/php-colorful/archive/master.zip"
     },
-    
     "httprequest": {
         "newest": "1.0",
         "1.0": "https://github.com/interaapps/PHP-HttpRequest/archive/master.zip"
+    },
+    "punyshort-lib": {
+        "newest": "1.0",
+        "1.0": "https://github.com/uppm/punyshort-lib/archive/master.zip"
     }
     
 }
