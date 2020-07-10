@@ -15,11 +15,14 @@
     },
     
     "uloleorm": {
-        "newest": "0.0",
+        "newest": "1.0",
         "0.0": "https://github.com/interaapps/ulole-orm/archive/master.zip",
         "1.0": "https://github.com/interaapps/ulole-orm/archive/1.0.zip"
     },
-    
+    "deverm": {
+        "newest": "1.0",
+        "1.0": "https://github.com/interaapps/deverm-router/archive/1.0.zip"
+    },
     "gitclient": {
         "newest": "1.0",
         "1.0": "https://github.com/uppm/git-php-client/archive/master.zip"
