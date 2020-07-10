@@ -25,8 +25,9 @@
         "1.0": "https://github.com/interaapps/deverm-router/archive/1.0.zip"
     },
     "ulole-core": {
-        "newest": "1.0",
-        "1.0": "https://github.com/interaapps/ulole-core/archive/1.0.zip"
+        "newest": "2.0.1",
+        "1.0": "https://github.com/interaapps/ulole-core/archive/1.0.zip",
+        "2.0.1": "https://github.com/interaapps/ulole-core/archive/2.0.1.zip"
     },
     "helper": {
         "newest": "1.0",
