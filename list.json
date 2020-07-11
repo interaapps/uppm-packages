@@ -33,6 +33,10 @@
         "newest": "1.0",
         "1.0": "https://github.com/uppm/helper/archive/1.0.zip"
     },
+    "phpdocannotations": {
+        "newest": "1.0",
+        "1.0": "https://github.com/uppm/phpdocannotations/archive/1.0.zip"
+    },
     "gitclient": {
         "newest": "1.0",
         "1.0": "https://github.com/uppm/git-php-client/archive/master.zip"
