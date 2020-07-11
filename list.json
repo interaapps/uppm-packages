@@ -37,6 +37,10 @@
         "newest": "1.0",
         "1.0": "https://github.com/uppm/phpdocannotations/archive/1.0.zip"
     },
+    "devermannotations": {
+        "newest": "1.0",
+        "1.0": "https://github.com/uppm/devermannotations/archive/1.0.zip"
+    },
     "gitclient": {
         "newest": "1.0",
         "1.0": "https://github.com/uppm/git-php-client/archive/master.zip"
