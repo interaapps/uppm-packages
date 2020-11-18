@@ -15,10 +15,11 @@
     },
     
     "uloleorm": {
-        "newest": "1.0",
+        "newest": "2.0",
         "0.0": "https://github.com/interaapps/ulole-orm/archive/master.zip",
         "1.0": "https://github.com/interaapps/ulole-orm/archive/1.0.zip",
-        "1.0.1": "https://github.com/interaapps/ulole-orm/archive/1.0.1.zip"
+        "1.0.1": "https://github.com/interaapps/ulole-orm/archive/1.0.1.zip",
+        "2.0": "https://github.com/interaapps/ulole-orm/archive/2.0.zip"
     },
     "deverm": {
         "newest": "5.0",
