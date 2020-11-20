@@ -1,8 +1,7 @@
 {
     "uppm": {
-        "newest": "1.2.0",
-        "0.0": "https://github.com/interaapps/uppm/archive/master.zip",
-        "1.2.0": "https://github.com/interaapps/uppm/archive/1.2.0.zip"
+        "newest": "0.0",
+        "0.0": "https://github.com/interaapps/uppm/archive/master.zip"
     },
     "phpmailer": {
         "newest": "1.0",
