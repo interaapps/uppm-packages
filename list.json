@@ -33,13 +33,15 @@
         "5.0.1": "https://github.com/interaapps/deverm-router/archive/5.0.1.zip"
     },
     "ulole-core": {
-        "newest": "2.0.5",
+        "newest": "3.0.0",
+        "0.0": "https://github.com/interaapps/ulole-core/archive/master.zip",
         "1.0": "https://github.com/interaapps/ulole-core/archive/1.0.zip",
         "2.0.1": "https://github.com/interaapps/ulole-core/archive/2.0.1.zip",
         "2.0.2": "https://github.com/interaapps/ulole-core/archive/2.0.2.zip",
         "2.0.3": "https://github.com/interaapps/ulole-core/archive/2.0.3.zip",
         "2.0.4": "https://github.com/interaapps/ulole-core/archive/2.0.4.zip",
-        "2.0.5": "https://github.com/interaapps/ulole-core/archive/2.0.5.zip"
+        "2.0.5": "https://github.com/interaapps/ulole-core/archive/2.0.5.zip",
+        "3.0.0": "https://github.com/interaapps/ulole-core/archive/3.0.0.zip"
     },
     "helper": {
         "newest": "1.0.1",
