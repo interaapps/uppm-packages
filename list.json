@@ -46,7 +46,8 @@
         "3.0.0": "https://github.com/interaapps/ulole-core/archive/3.0.0.zip",
         "3.0.1": "https://github.com/interaapps/ulole-core/archive/3.0.1.zip",
         "3.0.2": "https://github.com/interaapps/ulole-core/archive/3.0.2.zip",
-        "3.0.3": "https://github.com/interaapps/ulole-core/archive/3.0.3.zip"
+        "3.0.3": "https://github.com/interaapps/ulole-core/archive/3.0.3.zip",
+        "3.0.4": "https://github.com/interaapps/ulole-core/archive/3.0.4.zip"
     },
     "helper": {
         "newest": "1.0.1",
